@@ -10,7 +10,8 @@
 | Role | Name |
 |---|---|
 | Lead Automation Engineer | Anthony Waliaula |
-| Lead Automation Engineer | Anne Nyambura |
+| Documentation & Slides   | Anne Nyambura |
+GitHub: https://github.com/awaliaula/moringan8nweek10
 
 ---
 
